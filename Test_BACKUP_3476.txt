@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Test data 3
-=======
-Test data 2
->>>>>>> f6256ba189e7ebe25012d0b58e28f274cea39d0b
